@@ -1,1 +1,1 @@
-# scoop-bucket-scripts
+# scoop-bucket-assets
